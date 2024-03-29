@@ -1,3 +1,5 @@
 *.zip
 .fake
 *.class
+*.log
+*.jar
