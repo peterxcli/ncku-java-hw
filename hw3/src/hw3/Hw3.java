@@ -1,8 +1,6 @@
 package hw3;
 import java.util.Scanner;
 
-import hw4.Point;
-
 public class Hw3 {
     public static void main(String[] args) {
         // Original Main Point (x,y)
